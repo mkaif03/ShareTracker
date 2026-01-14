@@ -44,3 +44,36 @@ ShareTracker/
 **Tools**
 - Git & GitHub
 - npm
+
+
+## ⚙️ Installation & Setup
+
+### Clone the repository
+
+```bash
+git clone https://github.com/mkaif03/ShareTracker.git
+cd ShareTracker
+
+### Backend setup
+cd server
+npm install
+npm start
+
+### Frontend setup
+cd client
+npm install
+npm start
+
+📌 Usage
+
+Open the application in your browser
+
+Add stock information such as name, quantity, and purchase price
+
+View portfolio performance
+
+Update or delete stock entries as needed
+
+📜 License
+
+This project is open-source and intended for educational use.

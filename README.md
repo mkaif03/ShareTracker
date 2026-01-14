@@ -16,18 +16,6 @@ This project was built as a learning-focused full-stack application with a clear
 
 ---
 
-## 🧱 Project Structure
-
-ShareTracker/
-├── client/
-├── server/
-├── images/
-├── .gitignore
-├── package.json
-└── README.md
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
